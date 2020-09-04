@@ -88,7 +88,7 @@
     "passport-twitter": "1.0.2",
     "serve-favicon": "2.2.0",
     "serve-static": "^1.10.0",
-    "showdown": "0.3.1",
+    "showdown": "1.9.1",
     "time-grunt": "1.0.0"
   },
   "devDependencies": {
